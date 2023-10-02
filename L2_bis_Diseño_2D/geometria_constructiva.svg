@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg13956"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="geometria_constructiva.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13958"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.66368547"
+     inkscape:cx="76.090261"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1587"
+     inkscape:window-height="970"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs13953" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path13992"
+       style="fill:none;stroke:#000000;stroke-width:0.873071;stroke-opacity:1"
+       d="M 363.41211 160.38477 A 79.297968 79.297968 0 0 0 284.37695 233.38867 A 128.05505 128.05505 0 0 0 277.96289 233.22656 A 128.05505 128.05505 0 0 0 254.03906 235.57227 A 79.297968 79.297968 0 0 0 174.93555 161.73242 A 79.297968 79.297968 0 0 0 95.636719 241.03125 A 79.297968 79.297968 0 0 0 157.4082 318.36328 A 128.05505 128.05505 0 0 0 149.9082 361.28125 A 128.05505 128.05505 0 0 0 277.96289 489.33594 A 128.05505 128.05505 0 0 0 406.01953 361.28125 A 128.05505 128.05505 0 0 0 396.0957 311.88086 A 79.297968 79.297968 0 0 0 442.71094 239.68359 A 79.297968 79.297968 0 0 0 363.41211 160.38477 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="rect14394"
+       style="fill:none;stroke:#000000;stroke-width:0.231;stroke-opacity:1"
+       d="m 162.65915,43.743377 a 26.156461,12.153609 0 0 0 -26.15602,12.153781 26.156461,12.153609 0 0 0 4.75268,6.984069 v 42.465623 h 39.35625 V 64.732794 a 26.156461,12.153609 0 0 0 8.20364,-8.835636 26.156461,12.153609 0 0 0 -26.15655,-12.153781 z" />
+    <path
+       id="rect14525"
+       style="fill:none;stroke:#000000;stroke-width:0.231;stroke-opacity:1"
+       d="m 28.381252,138.59291 a 6.1231332,26.369806 0 0 0 -2.326989,20.67781 6.1231332,26.369806 0 0 0 2.502691,21.2509 h 3.088182 v -41.92871 z" />
+    <path
+       id="path14658"
+       style="fill:none;stroke:#000000;stroke-width:0.873071;stroke-opacity:1"
+       d="M 342.44922 615.0332 A 56.702782 70.963822 0 0 0 326.29688 664.60156 A 56.702782 70.963822 0 0 0 342.58594 714.35156 A 53.55982 55.7699 0 0 0 371.74023 664.74414 A 53.55982 55.7699 0 0 0 342.44922 615.0332 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="rect14767"
+       style="fill:none;stroke:#000000;stroke-width:0.873071;stroke-opacity:1"
+       d="M 407.13086 534.2207 L 407.13086 619.09766 L 652.66992 619.09766 L 652.66992 577.76562 A 40.673092 35.802681 0 0 1 614.82617 542.10156 A 40.673092 35.802681 0 0 1 615.83008 534.2207 L 407.13086 534.2207 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="rect15014"
+       style="fill:none;stroke:#000000;stroke-width:0.231;stroke-opacity:1"
+       d="m 14.873305,192.76665 v 26.97458 H 50.738298 86.603809 122.4688 158.33431 V 192.76665 H 122.4688 86.603809 50.738298 Z" />
+    <path
+       id="rect15102"
+       style="fill:none;stroke:#000000;stroke-width:0.873071;stroke-opacity:1"
+       d="M 471.75 848.6875 L 471.75 950.64062 L 336.19727 950.64062 L 200.64258 950.64062 L 65.089844 950.64062 L 65.089844 1052.5918 L 200.64258 1052.5918 L 336.19727 1052.5918 L 471.75 1052.5918 L 607.30273 1052.5918 L 607.30273 950.64062 L 607.30273 848.6875 L 471.75 848.6875 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
