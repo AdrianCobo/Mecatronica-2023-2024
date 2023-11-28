@@ -9,6 +9,7 @@ Testing:
    like this
 
 You can view the course log in the 'wiki' section.
+*The material for labs L6 and L7 is combined in the L6 folder.
 
 You can view the final project for the course here [here](https://github.com/AdrianCobo/my_bot)
 
