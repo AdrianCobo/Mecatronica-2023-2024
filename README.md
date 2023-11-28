@@ -1,9 +1,14 @@
-# Mecatronica-2023-2024
+# Mechatronics-2023-2024
 
-Repositorio personal para la asignatura de mecatrónica
+Personal repository for the mechatronics course.
 
-Probando:
+Testing:
 
-1. doble espacio al final de linea para indicar salto de
-   linea  
-   asi
+1. Double space at the end of the line to indicate a line  
+   break  
+   like this
+
+You can view the course log in the 'wiki' section.
+
+You can view the final project for the course here [here](https://github.com/AdrianCobo/my_bot)
+
